@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+}
+#compname{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+
+#navmenu{
+    display: inline-block;
+    display:flex;
+    position:fixed;
+    justify-content:space-evenly;
+    background-color: brown;
+    border-radius: 30px;
+    border-color: black;
+    border-style:solid ;
+    size: 30px;
+    position:fixed;
+    top: 0;
+    width:99%
+   
+}
+#about{
+    font-size: 30px;
+    background-color:burlywood;
+border-radius: 30px;
+border-style: double;
+}
+#contact{
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    border-style: dotted;
+}
+#picture{
+   display:block;
+   margin: 250px;
+
+}
+#slogan{
+    text-align: center;
+    border: 30px;
+    border-style:dotted ;
+}
